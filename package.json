@@ -6,7 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node src/server.js",
-    "test": "jest"
+    "test": "npx jest"
   },
   "devDependencies": {
     "jest": "^29.0.0"
