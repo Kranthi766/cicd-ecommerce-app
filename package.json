@@ -1,0 +1,15 @@
+{
+  "name": "cicd-ecommerce-app",
+  "version": "1.0.0",
+  "description": "Simple e-commerce app deployed using CI/CD",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
